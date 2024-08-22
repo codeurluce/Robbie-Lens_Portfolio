@@ -10,3 +10,7 @@
 4) git commit -m "Ajout d'images dans le dossier Images" 
 
 5) git commit -m "Ajout des fichiers style.css, À-propos, et portfolio dans le dossier Home"
+
+------------------------------------------------------------------------------------------------
+
+6) Les modifications précédentes ont été faites directement via l'éditeur Git, tandis que cet ajout a été réalisé avec l'editeur Git integré à Visual Studio Code
