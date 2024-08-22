@@ -4,3 +4,5 @@
 1) git commit -m " Ajout d'une phrase d'introduction : 'Bonjour je m'appelle Lucien, ' "
 
 2) git commit -m "Ajout des dossiers Home et Images"
+
+3) git commit -m "Ajout du fichier index.html dans le dossier Home"
