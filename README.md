@@ -8,3 +8,5 @@
 3) git commit -m "Ajout du fichier index.html dans le dossier Home"
 
 4) git commit -m "Ajout d'images dans le dossier images" 
+
+5) git commit -m "Ajout des fichiers style.css, À-propos, et portfolio dans le dossier home"
