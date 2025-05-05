@@ -24,4 +24,4 @@ Ce projet est une reproduction d'un site web moderne de type portfolio pour phot
 
 1. Clone le dépôt :
    ```bash
-   git clone https://github.com/tonpseudo/robbie-lens-site.git
+   git clone https://github.com/codeurluce/Robbie-Lens_Portfolio.git
