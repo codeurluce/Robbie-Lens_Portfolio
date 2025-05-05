@@ -1,16 +1,27 @@
-# html-css-learning-project
-**Bonjour je m'appelle lucien,** ce projet a été réalisé dans le cadre d'un apprentissage HTML/CSS sur OpenClassrooms. Il est intégré dans ce dépôt GitHub afin de me permettre de découvrir et de maîtriser le fonctionnement de Git et GitHub.
+# Robbie Lens - Site Web Moderne en HTML & CSS
 
-1) git commit -m " Ajout d'une phrase d'introduction : 'Bonjour je m'appelle Lucien, ' "
+Ce projet est une reproduction d'un site web moderne de type portfolio pour photographe, entièrement réalisé avec **HTML** et **CSS**. Il met l'accent sur le **design responsive**, la **typographie soignée** et une **présentation professionnelle**.
 
-2) git commit -m "Ajout des dossiers Home et Images"
+## 🌐 Aperçu
 
-3) git commit -m "Ajout du fichier index.html dans le dossier Home"
+![Aperçu du site](./screenshot.png)
 
-4) git commit -m "Ajout d'images dans le dossier Images" 
+## ✨ Fonctionnalités
 
-5) git commit -m "Ajout des fichiers style.css, À-propos, et portfolio dans le dossier Home"
+- Mise en page moderne avec flexbox
+- Palette de couleurs élégante
+- Typographie harmonieuse
+- Responsive design (adapté aux mobiles)
+- Bouton d’appel à l’action
+- Navigation simple : Accueil, À propos, Portfolio
 
-            [-----------------  Visual Code Studio ---------------]
+## 🛠️ Technologies utilisées
 
-6) Les modifications précédentes ont été faites directement via l'éditeur Git, tandis que cet ajout a été réalisé avec l'editeur Git integré à Visual Studio Code.
+- HTML5
+- CSS3 (flexbox, variables CSS, animations)
+
+## 🚀 Lancer le projet en local
+
+1. Clone le dépôt :
+   ```bash
+   git clone https://github.com/tonpseudo/robbie-lens-site.git
